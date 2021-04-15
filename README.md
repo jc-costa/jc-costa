@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![Jefferson's github stats](https://github-readme-stats.vercel.app/api?username=jc-costa) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc-costa&layout=compact)
 -->
 
-![Jefferson's github stats](https://github-readme-stats.vercel.app/api?username=jc-costa) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc-costa&layout=compact)
+
 
  
  ## How to reach me
