@@ -3,7 +3,7 @@
 
 ### About me:
 
-I’m currently an Computer Engineering undergrad at UFPE.
+I’m currently a Computer Engineering undergrad at UFPE.
 
 I'm from Recife-PE, Brazil. 
 
