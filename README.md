@@ -1,7 +1,7 @@
-# Hello. How are you doing?
-# I'm Jefferson Costa 👋
+## Hello. How are you doing?
+## I'm Jefferson Costa 👋
 
-## About me:
+### About me:
 
 I’m currently an Computer Engineering undergrad at UFPE.
 
