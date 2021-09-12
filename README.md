@@ -8,7 +8,7 @@ I’m currently a Computer Engineering undergrad at UFPE.
 I'm from Recife-PE, Brazil. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc-costa&layout=compact)](https://github.com/jc-costa/github-readme-stats)
-
+![Jefferson's github stats](https://github-readme-stats.vercel.app/api?username=jc-costa) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc-costa&layout=compact)
 
 <!--
 **jc-costa/jc-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
