@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - ![Jefferson's github stats](https://github-readme-stats.vercel.app/api?username=jc-costa) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc-costa&layout=compact)
 -->
 
-
-
- 
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc-costa&layout=compact)
+<br> 
  ## How to reach me
  * jefficostau@gmail.com
  * https://www.linkedin.com/in/jefferson-costa-260b24175/
