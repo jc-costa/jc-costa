@@ -20,5 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jc-costa&show_icons=true&locale=en" alt="jc-costa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jc-costa&" alt="jc-costa" /></p>
-
-<img alt="Jefferson's top languages" align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-costa&theme=tokyonight&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
