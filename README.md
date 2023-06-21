@@ -20,5 +20,5 @@
 
 <!-- !<img alt="Jefferson Costa's top languages" align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-costa&layout=compact&langs_count=7&theme=tokyonight"/>-->
 
-<img alt="Jefferson Costa's top languages" align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-costa&count_private=true&layout=compact&langs_count=7&theme=tokyonight"/>
+<!-- <img alt="Jefferson Costa's top languages" align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-costa&count_private=true&layout=compact&langs_count=7&theme=tokyonight"/> -->
 
