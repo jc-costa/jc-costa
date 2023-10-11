@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏿, I'm Jefferson Costa</h1>
 <h3 align="center">A Computer Engineering Student from Brazil</h3>
 
-- 🌱 I’m currently learning **Python, HTML, CSS**
+<!-- - 🌱 I’m currently learning **Python, HTML, CSS** -->
 
 - 📫 How to reach me **jefficostau@gmail.com**
 
