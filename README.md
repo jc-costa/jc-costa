@@ -3,7 +3,7 @@
 
 - 🎓 Currently pursuing an MSc in Computational Intelligence  
 - 💻 Background in Computer Engineering  
-- 🔬 Interests: Computer Vision, Image Processing, AI, Quantum Computing, Cyber Security 
+- 🔬 Interests: Computer Vision, Image Processing, Quantum Computing, Cyber Security 
 - 📫 Reach me at **jefficostau@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
